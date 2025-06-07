@@ -1,2 +1,2 @@
 # MyGameProject
-ứng dụng game 2d platform trên 
+ứng dụng game 2d platform trên Unity
